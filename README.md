@@ -1,5 +1,3 @@
 # Visão Computacional
 
-  Repositório para disciplina de Visão Computacional ministrada pelo prof. Glauco Vitor Pedrosa na UnB campus Gama.   
-    Aluno: Arthur Evangelista dos Santos;   
-    Matrícula: 14/0016686   
+  Projeto de um sistema utilizando openCV e machine learning para detecção de doenças e falhas na vegetação em imagens aéreas. Project of a system using openCV and machine learning for disease and failure detection in vegetation using aerial images.
